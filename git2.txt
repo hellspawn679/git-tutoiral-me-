@@ -5,4 +5,5 @@ git add --a --> move all to staging area
 git commet -m --> done commit 
 new change 
 
+efeifgie
 
